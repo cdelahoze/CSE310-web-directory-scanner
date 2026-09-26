@@ -1,0 +1,5 @@
+{
+  "/files/[filename]/page": "app/files/[filename]/page.js",
+  "/page": "app/page.js",
+  "/analytics/page": "app/analytics/page.js"
+}

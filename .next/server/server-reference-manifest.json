@@ -1,0 +1,38 @@
+{
+  "node": {
+    "40319d04e0d3dfefc754f9fecfd836b3f34405e1a6": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5COneDrive%20-%20BYU-Pathway%20Worldwide%5C%5CBYUI%5C%5CCSE310%5C%5Cproject%5C%5Ccse310-web-scanner%5C%5CCSE310-web-directory-scanner%5C%5Csrc%5C%5Capp%5C%5Cactions.ts%22%2C%5B%7B%22id%22%3A%2240319d04e0d3dfefc754f9fecfd836b3f34405e1a6%22%2C%22exportedName%22%3A%22uploadFileAction%22%7D%2C%7B%22id%22%3A%2240850bd5677a0fd8fbc4f9b48c06d3714d2188041c%22%2C%22exportedName%22%3A%22scanDirectoryAction%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/analytics/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5COneDrive%20-%20BYU-Pathway%20Worldwide%5C%5CBYUI%5C%5CCSE310%5C%5Cproject%5C%5Ccse310-web-scanner%5C%5CCSE310-web-directory-scanner%5C%5Csrc%5C%5Capp%5C%5Cactions.ts%22%2C%5B%7B%22id%22%3A%2240319d04e0d3dfefc754f9fecfd836b3f34405e1a6%22%2C%22exportedName%22%3A%22uploadFileAction%22%7D%2C%7B%22id%22%3A%2240850bd5677a0fd8fbc4f9b48c06d3714d2188041c%22%2C%22exportedName%22%3A%22scanDirectoryAction%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/analytics/page": "rsc"
+      }
+    },
+    "40850bd5677a0fd8fbc4f9b48c06d3714d2188041c": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5COneDrive%20-%20BYU-Pathway%20Worldwide%5C%5CBYUI%5C%5CCSE310%5C%5Cproject%5C%5Ccse310-web-scanner%5C%5CCSE310-web-directory-scanner%5C%5Csrc%5C%5Capp%5C%5Cactions.ts%22%2C%5B%7B%22id%22%3A%2240319d04e0d3dfefc754f9fecfd836b3f34405e1a6%22%2C%22exportedName%22%3A%22uploadFileAction%22%7D%2C%7B%22id%22%3A%2240850bd5677a0fd8fbc4f9b48c06d3714d2188041c%22%2C%22exportedName%22%3A%22scanDirectoryAction%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/analytics/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5COneDrive%20-%20BYU-Pathway%20Worldwide%5C%5CBYUI%5C%5CCSE310%5C%5Cproject%5C%5Ccse310-web-scanner%5C%5CCSE310-web-directory-scanner%5C%5Csrc%5C%5Capp%5C%5Cactions.ts%22%2C%5B%7B%22id%22%3A%2240319d04e0d3dfefc754f9fecfd836b3f34405e1a6%22%2C%22exportedName%22%3A%22uploadFileAction%22%7D%2C%7B%22id%22%3A%2240850bd5677a0fd8fbc4f9b48c06d3714d2188041c%22%2C%22exportedName%22%3A%22scanDirectoryAction%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/analytics/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "rvyWig9+Ilee1xXEjLmirZ2EaRu//FMnGXTLCHVwC7A="
+}
